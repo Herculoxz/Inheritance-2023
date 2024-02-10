@@ -54,7 +54,7 @@ further we plan to implement content - based ML model to get more accurate and r
 ## 🔗Links
 
 - [GitHub Repository](https://github.com/adityavivekanand/Watch-Harbour)
-- [Demo Video](assets/Screencast from 09-02-24 12_33_47 PM IST.webm)
+- [Demo Video](https://drive.google.com/file/d/1iv8nMNyjKb20P8yHiHBWWSAClQiBSP3i/view?usp=drive_link)
 - [Hosted Website Link](https://green-worlds-grin.loca.lt/)
 - [App APK Link](https://green-worlds-grin.loca.lt/)
 - [Hosted Backend Link](https://green-worlds-grin.loca.lt/)
